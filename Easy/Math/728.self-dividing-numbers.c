@@ -4,7 +4,7 @@ runtime:0ms
 beats:100%
 
  logic : we use right-left+1  this because we don't know return array size we take maximum possible ,it will right-left+1  and we add 1 because diference not count self number 
-for finding digit we only take modulo with 10
+-for finding digit we only take modulo with 10
 */
 
 /**
