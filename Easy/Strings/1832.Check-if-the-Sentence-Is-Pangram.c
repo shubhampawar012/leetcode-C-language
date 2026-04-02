@@ -17,7 +17,7 @@ bool checkIfPangram(char* sentence) {
             break;
         }
     }
-    if(count!=1){   if count is not equal to 1 means the letter is not appear in a sentence
+    if(count!=1){  // if count is not equal to 1 means the letter is not appear in a sentence
         return false;  // then return false
     }
   }
